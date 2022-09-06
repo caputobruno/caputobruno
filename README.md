@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caputobruno
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity (C#)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently developing a game called Lyara
 - 📫 How to reach me: brunocapsouza@gmail.com
 
 <!---
